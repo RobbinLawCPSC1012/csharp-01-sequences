@@ -10,6 +10,7 @@ namespace _05_Math
             int myInt2 = 5;
             double myDouble1 = 8.0;
             double myDouble2 = 5.0;
+            double myDouble3 = 6.0;
             int myIntAnswer;
             double myDoubleAnswer;
 
@@ -31,6 +32,16 @@ namespace _05_Math
             Console.WriteLine($"The answer is: {myDoubleAnswer}");
             myDoubleAnswer = myDouble2 / myDouble1; //only gives the whole part of division as the double is cast to an int
             Console.WriteLine($"The answer is: {myDoubleAnswer}");
+
+            myDoubleAnswer = myDouble1 + myDouble2 * myDouble3 / myDouble1;  
+            //multiplication and Division precede Add and Substract
+            //when at the same level left to right so here Mult first, then Divide, then Add
+            Console.WriteLine($"The answer is:  {myDoubleAnswer:n3}");
+
+            myDoubleAnswer = (myDouble1 + myDouble2) * myDouble3 / myDouble1;
+            //multiplication and Division precede Add and Substract
+            //when at the same level left to right so here Mult first, then Divide, then Add
+            Console.WriteLine($"The answer is:  {myDoubleAnswer:n3}");
         }
     }
 }
