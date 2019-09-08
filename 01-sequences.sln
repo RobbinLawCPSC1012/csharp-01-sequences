@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Variables", "03-Variable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-VariablesAndStringBuilding", "04-VariablesAndStringBuilding\04-VariablesAndStringBuilding.csproj", "{AC480557-8F97-4E37-98ED-EBF28C1F5220}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Math", "05-Math\05-Math.csproj", "{D4ECF347-DE25-4977-A626-3AC628964C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ReadLineAndParse", "06-ReadLineAndParse\06-ReadLineAndParse.csproj", "{3E3C49E8-9CAC-46B5-A2A3-9867DD55A231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{AC480557-8F97-4E37-98ED-EBF28C1F5220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC480557-8F97-4E37-98ED-EBF28C1F5220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC480557-8F97-4E37-98ED-EBF28C1F5220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4ECF347-DE25-4977-A626-3AC628964C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4ECF347-DE25-4977-A626-3AC628964C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4ECF347-DE25-4977-A626-3AC628964C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4ECF347-DE25-4977-A626-3AC628964C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3C49E8-9CAC-46B5-A2A3-9867DD55A231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3C49E8-9CAC-46B5-A2A3-9867DD55A231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3C49E8-9CAC-46B5-A2A3-9867DD55A231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3C49E8-9CAC-46B5-A2A3-9867DD55A231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
