@@ -6,7 +6,7 @@ namespace _01_HelloWorld
     {
         static void Main()
         {
-            Console.WriteLine("Hello Everyone");
+            Console.WriteLine("Hello Everybody");
         }
     }
 }
