@@ -28,6 +28,8 @@ namespace _04_VariablesAndStringBuilding
                 $"\nHeight: {height:n} cm " +
                 $"\nHas Light Bulb: {hasLightBulb}";
             Console.WriteLine(desc);
+
+            //https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/string-interpolation
         }
     }
 }
