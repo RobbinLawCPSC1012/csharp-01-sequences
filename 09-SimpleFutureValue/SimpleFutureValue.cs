@@ -11,7 +11,7 @@ namespace _09_SimpleFutureValue
 
             Console.WriteLine("Enter annual interest rate in percentage:");
             double interestRate = double.Parse(Console.ReadLine());
-            double monthlyInterest = interestRate / 12 / 100;
+            double monthlyInterest = interestRate / 100 / 12;
 
             Console.WriteLine("Enter Number of years:");
             int numYears = int.Parse(Console.ReadLine());
