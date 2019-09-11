@@ -3,15 +3,17 @@ CPSC1012 In-Class Exercise #01 – Sequence Structures
 Student Name:		Student Mark:		/5
 
 INSTRUCTIONS
-Complete the requirements of this assignment on your own. When you have finished, write your name on the board to get your instructor to mark your assignment.
+Complete the requirements of this assignment on your own. When you have finished, 
+write your name on the board to get your instructor to mark your assignment.
 
-Step 1: Create a program named CPSC1012-Ex01-YourName
+Step 1: Create a C# Console (.net Framework) project named CPSC1012-01-YourName
 Step 2: In the Main() method, write the code that will do the following:
-•	Create two constants, one for the federal GST tax rate (0.05), and one for the provincial tax rate (0.06) Assume not Alberta
-•	Ask the user to enter the following:
-o	The retail price of an item being purchased as a double
-o	The quantity of the item being purchased as an integer
-•	Calculate and display the following:
-o	The pretax price
-o	The sales provincial and federal tax for the purchase
-o	The total of the sale
+	Create two constants, one for the federal GST tax rate (0.05), and one for the provincial tax rate (0.06). 
+	Assume the items are not bought in Alberta, but in Saskachewan.
+Step 3: Ask the user to enter the following:
+	The retail price of an item being purchased as a double.
+	The quantity of the item being purchased as an integer.
+Step 4: Calculate and display the following:
+	The pretax price.
+	The sales provincial and federal tax for the purchase.
+	The total of the sale including total tax.
