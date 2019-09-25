@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C1EFE25B-B361-4D86-B0AE-4C940BD49146}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_10_2018InClass01</RootNamespace>
-    <AssemblyName>10-2018InClass01</AssemblyName>
+    <RootNamespace>_10_2018F_IC_seq_GST</RootNamespace>
+    <AssemblyName>10-2018F_IC_seq_GST</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2018InClass01.cs" />
+    <Compile Include="2018F-IC-seq-GST.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
