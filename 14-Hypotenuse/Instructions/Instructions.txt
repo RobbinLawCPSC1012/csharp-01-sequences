@@ -1,5 +1,0 @@
-The Pythagorean Theorem can be used to find the length of the hypotenuse of a right triangle. 
-Write a program that can solve for the hypotenuse once provided with the height and base of the right triangle. 
-The formula for the hypotenuse of a triangle is hypotenuse = squareroot(square(base)+square(height)).
-
-

@@ -1,6 +1,0 @@
-A bag of cookies holds 26 cookies. 
-The calorie information on the bag claims that there are 10 servings in the bag,
-and that each serving equals 175 calories. 
-Hint: You must figure out how many calories per cookie there are.  
-Write a program that lets the user enter the number of cookies he or she ate, 
-and then reports the number of total calories consumed by he or she.

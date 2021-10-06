@@ -1,3 +1,0 @@
-The West Coast sales unit of a company generates a variable percentage of the company’s total sales. 
-Based on this percentage that is entered by the user, write a program that will determine how much the West Coast unit 
-will generate if the company has a variable dollar amount in sales this year, also entered by the user of this program.
